@@ -1,7 +1,7 @@
 <?php 
 try{
 $host = 'localhost';
-$dbname = 'jobboard';
+$dbname = 'job-portal';
 $user = 'root';
 $pass = '';
 
